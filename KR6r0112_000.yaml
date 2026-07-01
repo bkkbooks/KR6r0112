@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0112/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 緇門世譜
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X86/X86n1603.xml
+    old_id: X86n1603
+hash: sha256:2fa553eb83fee1ce7b38fccf7fcf8cf390def38e0226f77339660d9a99d46983

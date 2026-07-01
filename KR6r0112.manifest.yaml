@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6r0112/v1
+canonical_location: https://kanripo.org/bkk/KR6r0112/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 緇門世譜
+  identifiers:
+    alt_id:
+    - X86n1603
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X86/X86n1603.xml
+    old_id: X86n1603
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0112_000.yaml, hash: 'sha256:2fa553eb83fee1ce7b38fccf7fcf8cf390def38e0226f77339660d9a99d46983'}
+  - {seq: 1, filename: KR6r0112_001.yaml, hash: 'sha256:ef723bca6c6fc12bd39d43a67c92d147b57ef6b3cd98854be3dae0cfb84cfc3e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0112_001.markers.yaml, hash: 'sha256:ddd94f2fdadbeec800f4c8776a08d7ff153c5a24b35f8c4e6ab4d4aad64d6ab8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3554
+  label: 終南山天龍會集緇門世譜
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋氏源流五宗世譜定祖圖序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-2
+    span:
+    - body
+    - 966
+    - 966
+  label: 祖圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-3
+    span:
+    - body
+    - 1240
+    - 1240
+  label: 溈仰宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-4
+    span:
+    - body
+    - 1271
+    - 1271
+  label: 臨濟宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-5
+    span:
+    - body
+    - 1937
+    - 1937
+  label: 曹洞宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-6
+    span:
+    - body
+    - 2111
+    - 2111
+  label: 雲門宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-7
+    span:
+    - body
+    - 2156
+    - 2156
+  label: 法眼宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-8
+    span:
+    - body
+    - 2183
+    - 2183
+  label: 偽仰派
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-9
+    span:
+    - body
+    - 2212
+    - 2212
+  label: 臨濟派
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-10
+    span:
+    - body
+    - 2720
+    - 2720
+  label: 曹洞派
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-11
+    span:
+    - body
+    - 3401
+    - 3401
+  label: 雲門派
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0112_X_001-mulu-12
+    span:
+    - body
+    - 3430
+    - 3430
+  label: 法眼派
+  type: mulu
+  level: 1
+hash: sha256:5288ba91babdb972cc4c33fb28b44eb8a0d0e47aeb9ae02f6dc7b77e4c739243
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
