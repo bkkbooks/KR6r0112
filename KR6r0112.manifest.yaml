@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0112_000.yaml, hash: 'sha256:2fa553eb83fee1ce7b38fccf7fcf8cf390def38e0226f77339660d9a99d46983'}
-  - {seq: 1, filename: KR6r0112_001.yaml, hash: 'sha256:ef723bca6c6fc12bd39d43a67c92d147b57ef6b3cd98854be3dae0cfb84cfc3e'}
+  - {seq: 1, filename: KR6r0112_001.yaml, hash: 'sha256:f62ac3a39f3e89f1b233b0fc63e957e7b5fcc6018eacbd6b11576cc4c57ebae0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0112_001.markers.yaml, hash: 'sha256:ddd94f2fdadbeec800f4c8776a08d7ff153c5a24b35f8c4e6ab4d4aad64d6ab8'}
+  - {seq: 0, role: markers, filename: assets/KR6r0112_000.markers.yaml, hash: 'sha256:4b1b15fdb8837ed74ee8cfa44c6b83c5b98998aa6d300359167f39c344b8a0fe'}
+  - {seq: 1, role: markers, filename: assets/KR6r0112_001.markers.yaml, hash: 'sha256:4060b3cc5851afe62204e7f77e7c8174e0a5ef2d1b7715759cc3b68fa50f7fcb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -156,7 +157,4 @@ table_of_contents:
   label: 法眼派
   type: mulu
   level: 1
-hash: sha256:5288ba91babdb972cc4c33fb28b44eb8a0d0e47aeb9ae02f6dc7b77e4c739243
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4534076f172f00848455e553058b1d2d8c84fa7dde5f70d359459c0321d70afd
